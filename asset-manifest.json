@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8efb3d0.chunk.css",
-    "main.js": "/static/js/main.7c2eefe0.chunk.js",
-    "main.js.map": "/static/js/main.7c2eefe0.chunk.js.map",
+    "main.css": "/static/css/main.ba38460c.chunk.css",
+    "main.js": "/static/js/main.9118f82b.chunk.js",
+    "main.js.map": "/static/js/main.9118f82b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.a8f673c4.chunk.css": "/static/css/2.a8f673c4.chunk.css",
-    "static/js/2.41b14057.chunk.js": "/static/js/2.41b14057.chunk.js",
-    "static/js/2.41b14057.chunk.js.map": "/static/js/2.41b14057.chunk.js.map",
+    "static/js/2.55740169.chunk.js": "/static/js/2.55740169.chunk.js",
+    "static/js/2.55740169.chunk.js.map": "/static/js/2.55740169.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ac383dc3c554909945ed93aba038f5bc.js": "/precache-manifest.ac383dc3c554909945ed93aba038f5bc.js",
+    "precache-manifest.dc6f0e1b732cbc0f017524ea5b23bda6.js": "/precache-manifest.dc6f0e1b732cbc0f017524ea5b23bda6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a8f673c4.chunk.css.map": "/static/css/2.a8f673c4.chunk.css.map",
-    "static/css/main.a8efb3d0.chunk.css.map": "/static/css/main.a8efb3d0.chunk.css.map",
-    "static/js/2.41b14057.chunk.js.LICENSE.txt": "/static/js/2.41b14057.chunk.js.LICENSE.txt",
+    "static/css/main.ba38460c.chunk.css.map": "/static/css/main.ba38460c.chunk.css.map",
+    "static/js/2.55740169.chunk.js.LICENSE.txt": "/static/js/2.55740169.chunk.js.LICENSE.txt",
     "static/media/Tseki-Lhamo-Resume.pdf": "/static/media/Tseki-Lhamo-Resume.21252e57.pdf",
     "static/media/business-demo.png": "/static/media/business-demo.cb2e676a.png",
     "static/media/chess-demo.png": "/static/media/chess-demo.8a376cba.png",
     "static/media/earphones-demo.png": "/static/media/earphones-demo.03430e0b.png",
     "static/media/headphones-demo.png": "/static/media/headphones-demo.4aa04f36.png",
     "static/media/homepage-background.png": "/static/media/homepage-background.967818a2.png",
+    "static/media/html-receipt-demo.png": "/static/media/html-receipt-demo.ab152a08.png",
     "static/media/profile-picture.png": "/static/media/profile-picture.28727a48.png",
     "static/media/project-homepage.png": "/static/media/project-homepage.1495a039.png",
     "static/media/recipe-demo.png": "/static/media/recipe-demo.3cd5f5b2.png"
@@ -27,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.a8f673c4.chunk.css",
-    "static/js/2.41b14057.chunk.js",
-    "static/css/main.a8efb3d0.chunk.css",
-    "static/js/main.7c2eefe0.chunk.js"
+    "static/js/2.55740169.chunk.js",
+    "static/css/main.ba38460c.chunk.css",
+    "static/js/main.9118f82b.chunk.js"
   ]
 }
