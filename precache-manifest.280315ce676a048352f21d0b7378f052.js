@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9df2f3eff1e708266813e62128c086f",
+    "revision": "ed95f6efd5517cd36ee7ac5f287416bc",
     "url": "/index.html"
   },
   {
-    "revision": "56bb344ad06b77939d7e",
-    "url": "/static/css/2.a8f673c4.chunk.css"
+    "revision": "e29cefe25eb8d87f9de4",
+    "url": "/static/css/2.15c84c01.chunk.css"
   },
   {
-    "revision": "4fd2ee6ebceea82c7102",
-    "url": "/static/css/main.e6b15a03.chunk.css"
+    "revision": "196bae0b289e52dd5718",
+    "url": "/static/css/main.298b94ab.chunk.css"
   },
   {
-    "revision": "56bb344ad06b77939d7e",
-    "url": "/static/js/2.55740169.chunk.js"
+    "revision": "e29cefe25eb8d87f9de4",
+    "url": "/static/js/2.49e97c53.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.55740169.chunk.js.LICENSE.txt"
+    "revision": "5e9b6f5c16b720e8a86875f97734673e",
+    "url": "/static/js/2.49e97c53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fd2ee6ebceea82c7102",
-    "url": "/static/js/main.a05872a7.chunk.js"
+    "revision": "196bae0b289e52dd5718",
+    "url": "/static/js/main.e390f7d0.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
     "url": "/static/js/runtime-main.19ccc7f6.js"
   },
   {
-    "revision": "3ff781fa1e85312c8d4488aa22d189af",
-    "url": "/static/media/Tseki-Lhamo-Resume.3ff781fa.pdf"
+    "revision": "318263c8353e1adf093a3233fe559d79",
+    "url": "/static/media/Tseki-Lhamo-Resume.318263c8.pdf"
   },
   {
     "revision": "cb2e676a519c4963f0ead113360d060a",
