@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f87c6a7dbd66b2852a2f8582da5aa3d",
+    "revision": "e9df2f3eff1e708266813e62128c086f",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.a8f673c4.chunk.css"
   },
   {
-    "revision": "bcdf215f914d5dddac98",
+    "revision": "4fd2ee6ebceea82c7102",
     "url": "/static/css/main.e6b15a03.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.55740169.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcdf215f914d5dddac98",
-    "url": "/static/js/main.4ba9adf7.chunk.js"
+    "revision": "4fd2ee6ebceea82c7102",
+    "url": "/static/js/main.a05872a7.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
     "url": "/static/js/runtime-main.19ccc7f6.js"
   },
   {
-    "revision": "21252e57a4b3afabaed6164c947ec7f3",
-    "url": "/static/media/Tseki-Lhamo-Resume.21252e57.pdf"
+    "revision": "3ff781fa1e85312c8d4488aa22d189af",
+    "url": "/static/media/Tseki-Lhamo-Resume.3ff781fa.pdf"
   },
   {
     "revision": "cb2e676a519c4963f0ead113360d060a",
